@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-
-Bar text
+bar testing text
 >>>>>>> bar
 
